@@ -24,29 +24,11 @@ img{ border:0; }
 
 h1{	font-size: 2.0em; }
 h2{	font-size: 1.5em; }
-h3{
-	color:#7ACC7A;
-}
-
 /*Contenedor principal*/
 #container {
 	margin: 0 auto;
 	max-width: 950px;
 	background:#ffffff;
-}
-/*********************************/
-/*Encabezado*/
-#header {
-	background: #7ACC7A; /* Old browsers */
-
-	padding: 20px;
-	height:60px;
-	color:#ffffff;	
-}
-
-#header h1 { 
-	margin: 0;
-	font-weight:300;	  
 }
 /*********************************/
 /*Menú*/
@@ -171,12 +153,6 @@ fieldset {
 	margin-bottom: 50px;		
 }
 
-legend {
-	font-size:1.2em;
-	font-weight:bold;
-	color:#004785;
-}
-
 label {
 	font-size: 1.0em;	
 	margin: 15px 0 1px;	
@@ -299,3 +275,30 @@ input.resumen{
 .t-resumen th, .t-resumen td{
 	border: 1px solid #eaeaea;
 }
+
+/*********************************/
+/* por ID */
+
+
+
+
+
+/*********************************/
+
+/*********************************/
+/* por tipo */
+
+
+
+
+
+/*********************************/
+
+/*********************************/
+/* por clase */
+
+
+
+
+
+/*********************************/
